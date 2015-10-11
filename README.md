@@ -1,2 +1,3 @@
 # Exploratory Data Analysis
-Repository created to submit the coursera Exploratory Data Analysis Course Project 1
+## Course Project 1
+This repo contains the R-scripts to make 4 types of charts in R
